@@ -1,1 +1,1 @@
-# ququqt
+# Linux
